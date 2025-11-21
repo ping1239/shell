@@ -1,0 +1,1 @@
+echo "MYENV = $MYENV"
